@@ -1,2 +1,2 @@
 # hello-world
-thi is a test from kiru
+this is a test from kiru
